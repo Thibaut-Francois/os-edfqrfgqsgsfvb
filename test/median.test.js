@@ -1,5 +1,5 @@
 
-import median  from "../src/median";('../src/median');
+import median  from "../src/median";
 
 describe('median', () => {
     test('devrait calculer la médiane pour un tableau impair', () => {
